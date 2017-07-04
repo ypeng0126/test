@@ -1,0 +1,1 @@
+https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting:zh-cn#.E5.AE.8C.E5.85.A8.E6.8E.A5.E6.89.8B
